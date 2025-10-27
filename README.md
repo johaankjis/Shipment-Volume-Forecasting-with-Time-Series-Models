@@ -251,18 +251,21 @@ Fits a straight line through the data to identify trends.
 ### Build for Production
 ```bash
 pnpm build
+# or
 npm run build
 ```
 
 ### Start Production Server
 ```bash
 pnpm start
+# or
 npm start
 ```
 
 ### Linting
 ```bash
 pnpm lint
+# or
 npm run lint
 ```
 
