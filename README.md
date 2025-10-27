@@ -95,7 +95,7 @@ cd Shipment-Volume-Forecasting-with-Time-Series-Models
 2. Install dependencies:
 ```bash
 pnpm install
-# or
+# Alternative using npm:
 npm install
 ```
 
@@ -109,7 +109,7 @@ You can get a free FRED API key at: https://fred.stlouisfed.org/docs/api/api_key
 4. Run the development server:
 ```bash
 pnpm dev
-# or
+# Alternative using npm:
 npm run dev
 ```
 
@@ -251,21 +251,21 @@ Fits a straight line through the data to identify trends.
 ### Build for Production
 ```bash
 pnpm build
-# or
+# Alternative using npm:
 npm run build
 ```
 
 ### Start Production Server
 ```bash
 pnpm start
-# or
+# Alternative using npm:
 npm start
 ```
 
 ### Linting
 ```bash
 pnpm lint
-# or
+# Alternative using npm:
 npm run lint
 ```
 
